@@ -1,3 +1,6 @@
-#### Footer col 3
+#### Bästa tv/bok -serier
+Re:ZERO -Starting Life in Another World
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+The mortal instruments
+
+The 5th wave

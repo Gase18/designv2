@@ -1,3 +1,6 @@
-#### Footer col 2
+#### Favorit bands
+1: Green Day
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+2: Imagine Dragons
+
+3: Iron Maiden

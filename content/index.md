@@ -8,18 +8,13 @@ Detta innehåll är skrivet i markdown och du hittar innehållet i filen `conten
 
 [FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Jag heter Gabriel Sevestedt. Jag föddes i Indien men adopterad som liten. Jag växte upp i Asarum, Karlshamn med mina föräldrar och min lillasyster. Jag älskar musik, helst pop. Har spelat trummor i ca 10 år. Jag gick på Vägga-gymnasiet i Karlshamn. Jag gick det Tekniska programmet.  
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Jag har sysslat med ett antal olika sporter, golf, innebandy, parkour och karate. Men just nu så utövar jag ingen sport.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+ Jag blev intresserad av dataspel när jag började i sjunde klass, då några kompisar introducerade League of Legends. Ett MOBA (Multi Online Battle Arena) spel. Några år senare började jag bli mer intresserad av professionell esport. Jag har jobbat och läst en del om esport under min gymnasietid.  
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
+Jag blev intresserad av webbprogrammering under mitt sista år på gymnasiet då jag gick en webbutvecklingskurs. Tyvärr så var kursen tråkig eftersom läraren inte kunde någon programmering, utan bara designen. Men jag jobba på egen hand och insåg att det var kul att skapa något eget så som jag ville.   
 
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+/Gabriel

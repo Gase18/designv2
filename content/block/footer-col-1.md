@@ -1,3 +1,6 @@
-#### Footer col 1
+#### Kontakt Info
+Mail: glissted@gmail.com
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Telefon: 076-3277516
+
+Adress: Notavalla v5
