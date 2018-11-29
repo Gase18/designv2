@@ -18,3 +18,16 @@ Jag har sysslat med ett antal olika sporter, golf, innebandy, parkour och karate
 Jag blev intresserad av webbprogrammering under mitt sista år på gymnasiet då jag gick en webbutvecklingskurs. Tyvärr så var kursen tråkig eftersom läraren inte kunde någon programmering, utan bara designen. Men jag jobba på egen hand och insåg att det var kul att skapa något eget så som jag ville.   
 
 /Gabriel
+
+
+
+<div class="byline">
+  <fieldset>
+  [FIGURE src="image/jag.jpg?w=100" class="right" caption="Bild på mig"]
+
+
+      Gabriel är en Student på BTH och pluggar Webbprogramering och pendlar varje dag från Karlshamn.
+        <p> På fritiden häger han med sina kompisar och tränar på utegym någon gång per vecka. </p>
+
+   </fieldset>
+</div>

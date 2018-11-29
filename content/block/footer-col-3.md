@@ -1,4 +1,4 @@
-#### Bästa tv/bok -serier
+#### Bästa bok -serier
 Re:ZERO -Starting Life in Another World
 
 The mortal instruments
