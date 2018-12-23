@@ -39,12 +39,17 @@ return [
             // ],
         ],
         [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "Italienresa.",
+        ],
+        [
             "text" => "Om",
             "url" => "om",
             "title" => "Om denna webbplats.",
         ],
         [
-            "text" => "test",
+            "text" => "Test",
             "url" => "test",
             "title" => "test.",
         ],
